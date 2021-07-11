@@ -1,0 +1,40 @@
+
+
+
+.header{
+    background: #7a7c2f;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 900;
+    background-clip: padding-box;
+}
+
+.facts{
+    font-family: sans-serif;
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-weight: 600;
+    background: #4f6f5e;
+}
+
+.intro_to_grid{
+    font-family: sans-serif;
+    font-weight: 700;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: #4e7a4e;
+    
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    font-size: medium;
+    background: #8c9e6a;
+    font-weight: bolder;
+    box-shadow: 5px -3px;
+}
